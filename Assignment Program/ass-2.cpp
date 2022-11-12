@@ -12,7 +12,7 @@ int main() {
     
     luas = alas * tinggi / 2;
     
-    cout << "maka luas segitiga ABC adalah " << std::setprecision(2) << luas;
+    cout << "maka luas segitiga ABC adalah " << std::setprecision(3) << luas;
     
     return 0;
 }
